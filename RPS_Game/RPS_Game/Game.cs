@@ -102,6 +102,8 @@ namespace RPS_Game
                     }
                 }
                 RoundNumber++; // updates the round number each loop.
+                Rounds.Add(round);
+
             }
         }
     }
