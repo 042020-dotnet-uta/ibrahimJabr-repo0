@@ -2,17 +2,6 @@
 using System.Collections;
 namespace RPS_Game
 {
-    // public class Player
-    // { // creating a player class to store player information.
-    //     public string name; //string to store player name.
-    //     public string curntRound; // string to store what player got from RPSGenerator(r/p/s)
-    //     public int score = 0; // int to store player wint count.
-    //     public Player(string name)
-    //     { // constructor to assign player name to the string.
-    //         this.name = name;
-    //     }
-
-    // }
     class Program
     {
         static void Main(string[] args)
