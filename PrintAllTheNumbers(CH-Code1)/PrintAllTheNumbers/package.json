@@ -1,0 +1,9 @@
+{
+  "name": "print-all-the-numbers",
+  "version": "0.0.0",
+  "description": "PrintAllTheNumbers",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
